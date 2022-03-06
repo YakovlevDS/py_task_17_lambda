@@ -1,4 +1,0 @@
-the first text
-the second text
-the third text
-With Errors ['text4.txt']
