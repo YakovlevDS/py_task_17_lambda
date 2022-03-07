@@ -10,3 +10,6 @@ print(new_h2) #We generate a list
 new_h3={x*3 for x in h}
 print(new_h3) #generable multitude
 
+new_h4={x:x*3 for x in h}
+print(new_h4) #generable dictionary
+
